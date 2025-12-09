@@ -12,9 +12,9 @@
         "wabot",
         "botwa"
     ],
-    "homepage": "https://github.com/Bagasoffc/baileys",
+    "homepage": "https://github.com/ikangaming2/baileys",
     "repository": {
-        "url": "https://github.com/Bagasoffc/baileys"
+        "url": "https://github.com/ikangaming2/baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
@@ -110,3 +110,4 @@
         "node": ">=20.0.0"
     }
 }
+
