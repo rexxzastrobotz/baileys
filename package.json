@@ -1,7 +1,7 @@
 {
     "name": "baileys",
     "version": "1.2.8",
-    "description": "Whatsapp baileys coded by Ikan.",
+    "description": "Whatsapp baileys recode by rexxz.",
     "keywords": [
         "whatsapp",
         "lily-baileys",
@@ -12,9 +12,9 @@
         "wabot",
         "botwa"
     ],
-    "homepage": "https://github.com/ikangaming2/baileys",
+    "homepage": "https://github.com/rexxzastrobotz/baileys",
     "repository": {
-        "url": "https://github.com/ikangaming2/baileys"
+        "url": "https://github.com/rexxzastrobotz/baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
@@ -110,4 +110,5 @@
         "node": ">=20.0.0"
     }
 }
+
 
